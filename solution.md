@@ -1,8 +1,11 @@
 I first downloaded the necessary datasets:
 
 `wget https://gear.embl.de/data/.exercise/tu.r1.fq.gz`
+
 `wget https://gear.embl.de/data/.exercise/tu.r2.fq.gz`
+
 `wget https://gear.embl.de/data/.exercise/wt.r1.fq.gz`
+
 `wget https://gear.embl.de/data/.exercise/wt.r2.fq.gz`
 
 
