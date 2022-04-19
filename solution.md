@@ -45,4 +45,6 @@ I used `samtools depth` to found out the coverage:
 
 `samtools depth roi_wt.bam > wt.output`
 
+## Read depth plot
+
 
